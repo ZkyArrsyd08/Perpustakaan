@@ -1,5 +1,10 @@
 # Perpustakaan
 
+Kelompok 8 :
+- M Carel Azzami (22)
+- M Zaky Arrosyid (25)
+- Rahmadina Jogi S (29)
+
 # 📚 DATABASE PERPUSTAKAAN
 
 ## Implementasi DDL, DML, JOIN, dan VIEW pada MySQL
